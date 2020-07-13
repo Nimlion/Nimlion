@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there, I am Hosam Darwish 👋
+I am a 21 year old software engineering student from Amsterdam, The Netherlands.
 
-<!--
-**Nimlion/Nimlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some things about me:
+---
+- :office: I am currently working at [Jungle Minds](https://www.jungleminds.com "Jungle Minds").
+- 🌱 In my spare time I am working on my portfolio and a new Flutter application.
+- :computer: Starting september 2020 I will learn all about Big Data using Java.
+- 💬 Would love to chat all about Flutter, AI, Alghorithms and Machine learning.
+- 📫 How to reach me: Look at my [portfolio](https://www.hosamdarwish.nl "My portfolio")! :rocket:
+- 😄 Pronouns: The wizard, Steen & The egyptian viking.
+- ⚡ Fun fact: `undefined` 
+- Languages I code in: `.ts`, `.js`, `.java`, `.dart`, `.json`, `.tsx`, `.svg`, `.xml`, `.md`, `.scss`, `.sql`.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Java
+public static void welcome() {
+  welcomeVisitor();
+  
+  if (visitor === interested) {
+    visitMyWebsite();
+   }
+}
+```
+🎥 PS: big movie fanatic
