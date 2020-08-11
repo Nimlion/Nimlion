@@ -3,7 +3,7 @@ I am a 21 year old software engineering student from Amsterdam, The Netherlands.
 
 Some things about me:
 ---
-- :office: I am currently working at [Jungle Minds](https://www.jungleminds.com "Jungle Minds").
+- :school: I am currently studying Software Engineering at the Hogeschool van Amsterdam.
 - 🌱 In my spare time I am working on my portfolio and a new Flutter application.
 - :computer: Starting september 2020 I will learn all about Big Data using Java.
 - 💬 Would love to chat all about Flutter, AI, Alghorithms and Machine learning.
