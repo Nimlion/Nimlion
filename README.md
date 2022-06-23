@@ -1,5 +1,5 @@
 ### Hello there, I am Hosam Darwish 👋
-I am a 22 year old software engineering student from Amsterdam, The Netherlands.
+I am a 23 year old software engineering student from Amsterdam, The Netherlands.
 
 Some things about me:
 ---
@@ -10,13 +10,13 @@ Some things about me:
 - 📫 How to reach me: Look at my [portfolio](https://hosam-darwish.netlify.app "My portfolio")! :rocket:
 - 😄 Pronouns: The wizard, José & The egyptian viking.
 - ⚡ Fun fact: `undefined` 
-- Languages I code in: `.py`, `.sol`, `.ts`, `.js`, `.java`, `.dart`, `.json`, `.tsx`, `.svg`, `.xml`, `.md`, `.scss`, `.sql`, `.html`.
+- Languages I code in: `.cs`, `.py`, `.sol`, `.ts`, `.js`, `.java`, `.dart`, `.json`, `.tsx`, `.svg`, `.xml`, `.md`, `.scss`, `.sql`, `.cshtml`, `.html`.
 
 ```Java
 public static void welcome() {
   welcomeVisitor();
   
-  if (visitor === interested) {
+  if (visitor == interested) {
     visitMyWebsite("https://hosam-darwish.netlify.app");
    }
 }
