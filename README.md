@@ -1,5 +1,5 @@
 ### Hello there, I am Hosam Darwish 👋
-I am a 23 year old software engineering student from Amsterdam, The Netherlands.
+I am a 24 year old software engineer from Amsterdam, The Netherlands.
 
 Some things about me:
 ---
